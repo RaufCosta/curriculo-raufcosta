@@ -27,9 +27,9 @@ body {
 
 /* Estilos do Cabeçalho */
 header {
-    background: url(banner2.jpg\ \(2\).png);
+    background: url();
     text-align: center;
-    background-color: #0077b6;
+    background-color: #050505;
     color: white;
     padding: 50px 20px;
     border-radius: 10px;
