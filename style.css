@@ -146,7 +146,7 @@ img {
 
 /* Estilos dos Links - Todos em Azul */
 a {
-    color: blue;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -156,9 +156,9 @@ a:hover {
 
 /* Ajuste para o LinkedIn */
 .linkedin-link {
-    color: blue;
+    color: rgb(255, 255, 255);
 }
 
 .linkedin-link:hover {
-    color: darkblue;
+    color: rgb(255, 255, 255);
 }
